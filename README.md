@@ -1,3 +1,5 @@
 # group
 
-1. Markdown Merge Test Kang Seong Kwan
+마크다운 문법으로 문서 작성 후 병합 요청 - 강성관
+
+1. 마크다운으로 표를 만들면 깔끔하게 만들 수 있습니다.
